@@ -27,7 +27,7 @@ You can access the full API documentation via Swagger at the root URL of the dep
 
 Swagger UI: [https://your-app-url.com/](https://your-app-url.com/)
 
-## API Documentation
+## Relationships
 - User to Post: One-to-Many relationship (One user can have multiple posts).
 - Category to Post: One-to-Many relationship (One category can contain multiple posts).
 
